@@ -96,7 +96,7 @@ html{
 /* home section stylling */
 .home{
 	display: flex;
-	background: url("images/banner.jpg");
+	background: url("images/banner.png");
 	height: 100vh;
 	background-position: center;
 	background-repeat: no-repeat;
